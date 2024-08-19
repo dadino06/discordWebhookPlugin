@@ -1,4 +1,4 @@
-name: discordHookPlugin
+name: discordWebhookPlugin
 version: '1.0-SNAPSHOT'
 description: A simple plugin for sending Discord messages on server startup and shutdown.
 author: dadino06
